@@ -1,0 +1,18 @@
+{
+  "name": "13mdlschl_manual",
+  "version": "1.0.0",
+  "description": "这是一份由十三中已毕业的同学所编写的一份指南，也是对三年高中生活的一个纪念。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "plugins": [
+    "katex"
+  ],
+  "dependencies": {
+    "gitbook-plugin-katex": "^1.1.4",
+    "gitbook-plugin-mathjax": "^2.0.0"
+  }
+}
