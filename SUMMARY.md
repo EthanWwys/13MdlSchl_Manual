@@ -6,7 +6,7 @@
 * [Q&A](Q&A_preface.md)
   * [如何看待刷题](exercises.md)
   * [什么是错题本](lessons.md)
-  * [去答疑](questations.md)
+  * [去答疑](questions.md)
   * [你需要课外班吗](cram_school.md)
 * [各科学习资源](resources.md)
   * [物理](physics.md)
