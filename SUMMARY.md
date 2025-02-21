@@ -1,6 +1,7 @@
 # Summary
 
-* [序](README.md)
+* [README](README.md)
+* [序](Introduction.md)
 * [写在前面的话](Preface.md)
 * [Q&A](Q&A_preface.md)
   * [如何看待刷题](exercises.md)
