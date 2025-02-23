@@ -4,14 +4,14 @@
 
 以下列出四个编者觉得比较有代表性的问题
   1. 如何看待刷题
-    [Ans1](Q&A/wys/exercises.md)
-    [Ans2](Q&A/tzy/exercises)
+    [Ans1](wys/exercises.md)
+    [Ans2](tzy/exercises.md)
   2. 什么是错题本
-    [Ans1](Q&A/wys/lessons.md)
-    [Ans2](Q&A/tzy/lessons.md)
+    [Ans1](wys/lessons.md)
+    [Ans2](tzy/lessons.md)
   3. 去答疑
-    [Ans1](Q&A/wys/questions.md)
-    [Ans2](Q&A/wys/questions.md)
+    [Ans1](wys/questions.md)
+    [Ans2](wys/questions.md)
   4. 你需要课外班吗
-    [Ans1](Q&A/wys/cram_school.md)
-    [Ans2](Q&A/tzy/cram_school.md)
+    [Ans1](wys/cram_school.md)
+    [Ans2](tzy/cram_school.md)
